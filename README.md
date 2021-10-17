@@ -1,2 +1,3 @@
 # Hello-World
-My first Git Repository
+Hi there!
+I am a Node.js Backend Rest API Developer
